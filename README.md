@@ -17,6 +17,8 @@ List Bot :
 <b>Cara Pakai?</b><br>
 1.Login Akun Menggunakan Tinder Versi Website<br>
 2.Lalu Ambil Request Headers Cari X-Auth-Token<br>
+![image](https://github.com/yudhatira21/TinderBot/assets/49090406/d984b5b1-8d21-4fcf-897c-00a79f2e70cf)
+<br>
 3.Kemudian Jalankan Bot <b>php run.php</b> kemudian paste auth token kalian<br>
 ![image](https://github.com/yudhatira21/TinderBot/assets/49090406/5acffb06-0578-4ad9-b327-682435ff002a)
 <br>
